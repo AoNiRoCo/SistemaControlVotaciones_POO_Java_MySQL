@@ -51,5 +51,3 @@ Lista de requisitos no funcionales
 •	El sistema debe ser capaz de administrar la base de datos con actualizaciones, modificaciones, respaldo.
 •	Se debe contar con una bitácora de instrucciones insertadas en el sistema.
 •	El sistema debe ser modulado, de tal manera que pueda ser soportada sin conexión constante al sistema completo o al servidor central.
-
-https://github.com/AoNiRoCo/SistemaControlVotaciones_POO_Java_MySQL/blob/7db1690f1672be9f6627514b5825c59da83f9b3e/Delimitaci%C3%B3nYArquitecturaDelSistema.png
