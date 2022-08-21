@@ -14,4 +14,4 @@ Para la base de datos, se ha hecho uso del lennguaje MySQL en apoyo del gestor M
 
 El sistema esta desarrollado en base a un enfoque de microservicios, por lo que puede ser utilizado de forma modular tanto a nivel cliente como a nivel servidor permitiendo la escalabilidad e independencia de su funcionamiento.
 
-Anexo el archivo de documentación.
+Para conocer parte de la documentación del diseño, se anexa el archivo "DocumentacionDiseño.pdf".
